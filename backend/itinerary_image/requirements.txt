@@ -1,0 +1,7 @@
+# Pillow # Install manually: pip3 install --platform=manylinux2014_x86_64 --only-binary=:all: --python-version 3.9 --implementation cp --target ./package pillow grpcio>=1.45.0
+protobuf>=3.19,<5.0
+pydantic>=1.9.2,<2.0
+python-dotenv    
+# grpcio>=1.45.0
+stability-sdk[sagemaker] @ git+https://github.com/Stability-AI/stability-sdk.git@sagemaker
+typing-extensions

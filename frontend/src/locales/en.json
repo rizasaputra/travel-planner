@@ -1,0 +1,17 @@
+{
+  "app": "Itinerary Initiator",
+  "language": "Language",
+  "action": "I want to travel to",
+  "duration": "for",
+  "day": "days",
+  "alone": "individually",
+  "v_alone": "individual",
+  "couple": "with my lover",
+  "v_couple": "couple",
+  "group": "with my friends",
+  "v_group": "group of friends",
+  "family": "with my family",
+  "v_family": "family",
+  "generate": "Initiate itinerary",
+  "r_day": "Day"
+}

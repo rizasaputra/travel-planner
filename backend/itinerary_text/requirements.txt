@@ -1,0 +1,2 @@
+requests
+ai21[AWS]>=1.2.4

@@ -1,0 +1,17 @@
+{
+  "app": "Perencana Perjalanan",
+  "language": "Bahasa",
+  "action": "Saya mau berwisata ke",
+  "duration": "selama",
+  "day": "hari",
+  "alone": "sendirian",
+  "v_alone": "sendiri",
+  "couple": "dengan pasangan",
+  "v_couple": "pasangan",
+  "group": "bersama teman-teman",
+  "v_group": "kelompok teman-teman",
+  "family": "bersama keluarga",
+  "v_family": "keluarga",
+  "generate": "Rencanakan perjalanan",
+  "r_day": "Hari"
+}
